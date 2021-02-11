@@ -1,0 +1,13 @@
+C:\Proyectos\practica1\Practica.Prism\Practica.Prism\bin\Debug\netstandard2.0\Practica.Prism.deps.json
+C:\Proyectos\practica1\Practica.Prism\Practica.Prism\bin\Debug\netstandard2.0\Practica.Prism.dll
+C:\Proyectos\practica1\Practica.Prism\Practica.Prism\bin\Debug\netstandard2.0\Practica.Prism.pdb
+C:\Proyectos\practica1\Practica.Prism\Practica.Prism\obj\Debug\netstandard2.0\Practica.Prism.csprojAssemblyReference.cache
+C:\Proyectos\practica1\Practica.Prism\Practica.Prism\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Proyectos\practica1\Practica.Prism\Practica.Prism\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Proyectos\practica1\Practica.Prism\Practica.Prism\obj\Debug\netstandard2.0\Practica.Prism.AssemblyInfoInputs.cache
+C:\Proyectos\practica1\Practica.Prism\Practica.Prism\obj\Debug\netstandard2.0\Practica.Prism.AssemblyInfo.cs
+C:\Proyectos\practica1\Practica.Prism\Practica.Prism\obj\Debug\netstandard2.0\Practica.Prism.csproj.CoreCompileInputs.cache
+C:\Proyectos\practica1\Practica.Prism\Practica.Prism\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Proyectos\practica1\Practica.Prism\Practica.Prism\obj\Debug\netstandard2.0\Practica.Prism.dll
+C:\Proyectos\practica1\Practica.Prism\Practica.Prism\obj\Debug\netstandard2.0\Practica.Prism.pdb
+C:\Proyectos\practica1\Practica.Prism\Practica.Prism\obj\Debug\netstandard2.0\Views\Escritorio.xaml.g.cs
